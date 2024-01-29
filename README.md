@@ -1,2 +1,2 @@
 # Algorithms_problem
-This problem was applied using graph algorithm
+Those problems was applied using graph , DP , Greedy and other algorithms
